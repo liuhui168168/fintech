@@ -1,2 +1,3 @@
 取远程分支并分化一个新分支： $ git checkout -b mybranch origin/mybranch
 git cherry-pick test
+add new line test
