@@ -3,3 +3,6 @@ dddd
 dd,d,
 mbm
 Cannot rebase: Your index contains uncommitted changes.
+github readme.md 添加图片
+基本上按上文操作就没问题。不过博主在这里记录一下遇到的问题，就是添加文件的问题。运行
+git add screenshots
